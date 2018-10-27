@@ -2,7 +2,8 @@
 | päivä   | aika | mitä tein                                                                                             |
 |--------:|:----:|:------------------------------------------------------------------------------------------------------|
 | 25.10.  | 3    | Frontendin initialisointi, API spesifikaation aloitus                                                 |
-| **yht** | 3    |                                                                                                       |
+| 27.10.  | 4    | Lisää API spesifikaation työstämistä                                                                  |
+| **yht** | 7    |                                                                                                       |
 
 
 # Alkuperäisen projektin työaikakirjanpito
