@@ -3,7 +3,8 @@
 |--------:|:----:|:------------------------------------------------------------------------------------------------------|
 | 25.10.  | 3    | Frontendin initialisointi, API spesifikaation aloitus                                                 |
 | 27.10.  | 4    | Lisää API spesifikaation työstämistä                                                                  |
-| **yht** | 7    |                                                                                                       |
+| 27.10.  | 4    | Backendin implementaation aloitus, pieniä korjauksia API spesifikaatioon                              |
+| **yht** | 11   |                                                                                                       |
 
 
 # Alkuperäisen projektin työaikakirjanpito
