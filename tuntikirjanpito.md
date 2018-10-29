@@ -4,7 +4,8 @@
 | 25.10.  | 3    | Frontendin initialisointi, API spesifikaation aloitus                                                 |
 | 27.10.  | 4    | Lisää API spesifikaation työstämistä                                                                  |
 | 27.10.  | 4    | Backendin implementaation aloitus, pieniä korjauksia API spesifikaatioon                              |
-| **yht** | 11   |                                                                                                       |
+| 29.10.  | 2    | Pluginien lataukseen liittyviä korjauksia, plugin APIn implementaatiota                               |
+| **yht** | 13   |                                                                                                       |
 
 
 # Alkuperäisen projektin työaikakirjanpito
