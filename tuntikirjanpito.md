@@ -8,8 +8,20 @@
 | **yht** | 13   |                                                                                                       |
 
 
+# Muu maubottiin liittyvä työaikakirjanpito
+Nämä eivät varsinaisesti liity projektiin eli maubotin hallintaohjelmointirajapintaan ja
+hallintakäyttöliittymään, mutta liittyvät maubottiin muuten (esim. liitännäisten kehitys)
+
+| päivä   | aika | mitä tein                                                                                             |
+|--------:|:----:|:------------------------------------------------------------------------------------------------------|
+| 28.10.  | 4    | Yhdistetty laskin ja nopanheittobotti                                                                 |
+| 30.10.  | 1    | Botti joka vastaa sille lähetettyihin kuviin niiden kuvien `mxc://`-osoitteella                       |
+| **yht** | 5    |                                                                                                       |
+
+
 # Alkuperäisen projektin työaikakirjanpito
-Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma, mutta matrix-js-sdk:n ja react nativen outouksien takia se jäi kesken.
+Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma, mutta matrix-js-sdk:n ja
+react nativen outouksien takia se jäi kesken.
 
 | päivä | aika | mitä tein                                                                                             |
 |------:|:----:|:------------------------------------------------------------------------------------------------------|
