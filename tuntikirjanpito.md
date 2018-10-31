@@ -6,7 +6,8 @@
 | 27.10.  | 4    | Backendin implementaation aloitus, pieniä korjauksia API spesifikaatioon                              |
 | 29.10.  | 2    | Pluginien lataukseen liittyviä korjauksia, plugin APIn implementaatiota                               |
 | 30.10.  | 3    | Plugin APIn implementaatio valmiiksi ja toimivuuden varmistus, yksinkertainen kirjautumisjärjestelmä  |
-| **yht** | 16   |                                                                                                       |
+| 31.10.  | 4    | Instance APIn alku, sisäinen refaktorointi asioiden käynnistysjärjestykseen                           |
+| **yht** | 20   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -35,4 +36,3 @@ react nativen outouksien takia se jäi kesken.
 | 9.9   | 2    | Tallennuksen muokkaaminen monelle käyttäjälle sopivaksi, navigaatiovaihtoehtojen tutkimista           |
 | 15.9. | 4    | Välimuistimahdollisuuksien tutkiminen, browser-request kirjastosta RNssä toimiva versio, login toimii |
 |**yht**| 23   |                                                                                                       |
-
