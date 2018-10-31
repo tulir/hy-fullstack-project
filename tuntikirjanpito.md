@@ -5,7 +5,8 @@
 | 27.10.  | 4    | Lisää API spesifikaation työstämistä                                                                  |
 | 27.10.  | 4    | Backendin implementaation aloitus, pieniä korjauksia API spesifikaatioon                              |
 | 29.10.  | 2    | Pluginien lataukseen liittyviä korjauksia, plugin APIn implementaatiota                               |
-| **yht** | 13   |                                                                                                       |
+| 30.10.  | 3    | Plugin APIn implementaatio valmiiksi ja toimivuuden varmistus, yksinkertainen kirjautumisjärjestelmä  |
+| **yht** | 16   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
