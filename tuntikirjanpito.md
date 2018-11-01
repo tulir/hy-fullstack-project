@@ -10,7 +10,8 @@
 | 1.11.   | 1    | Pluginien live-upload+reload korjauksia, korjauksia matrix-kirjastoon                                 |
 | 1.11.   | 4    | Instance API valmiiksi ja lisää sisäisiä muutoksia                                                    |
 | 1.11.   | 2    | Client API valmiiksi                                                                                  |
-| **yht** | 27   |                                                                                                       |
+| 2.11.   | 1    | Echo botin avulla valmistuneiden APIen testaus ja korjaus                                             |
+| **yht** | 28   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -23,6 +24,7 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 28.10.  | 4    | [maubot/dice](https://github.com/maubot/dice): Yhdistetty laskin ja nopanheittobotti                                              |
 | 30.10.  | 1    | [maubot/media](https://github.com/maubot/media): Botti, joka vastaa sille lähetettyihin kuviin niiden kuvien `mxc://`-osoitteella |
 | 1.11.   | 2    | [maubot/xkcd](https://github.com/maubot/xkcd): xkcd-botti                                                                         |
+| 2.11.   | 0    | [maubot/echo](https://github.com/maubot/echo): yksinkertainen !ping ja !echo komennot sisältävä botti                             |
 | **yht** | 7    |                                                                                                                                   |
 
 
@@ -47,7 +49,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 27 tuntia |
+| hallintajärjestelmä   | 28 tuntia |
 | muut maubot asiat     |  7 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 57 tuntia |
+| **yhteensä**          | 58 tuntia |
