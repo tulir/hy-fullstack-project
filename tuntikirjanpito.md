@@ -16,12 +16,12 @@
 Nämä eivät varsinaisesti liity projektiin eli maubotin hallintaohjelmointirajapintaan ja
 hallintakäyttöliittymään, mutta liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 
-| päivä   | aika | mitä tein                                                                                             |
-|--------:|:----:|:------------------------------------------------------------------------------------------------------|
-| 28.10.  | 4    | Yhdistetty laskin ja nopanheittobotti                                                                 |
-| 30.10.  | 1    | Botti joka vastaa sille lähetettyihin kuviin niiden kuvien `mxc://`-osoitteella                       |
-| 1.11.   | 2    | xkcd-botti                                                                                            |
-| **yht** | 7    |                                                                                                       |
+| päivä   | aika | mitä tein                                                                                                                         |
+|--------:|:----:|:----------------------------------------------------------------------------------------------------------------------------------|
+| 28.10.  | 4    | [maubot/dice](https://github.com/maubot/dice): Yhdistetty laskin ja nopanheittobotti                                              |
+| 30.10.  | 1    | [maubot/media](https://github.com/maubot/media): Botti, joka vastaa sille lähetettyihin kuviin niiden kuvien `mxc://`-osoitteella |
+| 1.11.   | 2    | [maubot/xkcd](https://github.com/maubot/xkcd): xkcd-botti                                                                         |
+| **yht** | 7    |                                                                                                                                   |
 
 
 # Alkuperäisen projektin työaikakirjanpito
