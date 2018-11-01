@@ -7,7 +7,8 @@
 | 29.10.  | 2    | Pluginien lataukseen liittyviä korjauksia, plugin APIn implementaatiota                               |
 | 30.10.  | 3    | Plugin APIn implementaatio valmiiksi ja toimivuuden varmistus, yksinkertainen kirjautumisjärjestelmä  |
 | 31.10.  | 4    | Instance APIn alku, sisäinen refaktorointi asioiden käynnistysjärjestykseen                           |
-| **yht** | 20   |                                                                                                       |
+| 1.11.   | 1    | Pluginien live-upload+reload korjauksia, korjauksia matrix-kirjastoon                                 |
+| **yht** | 21   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -18,7 +19,8 @@ hallintakäyttöliittymään, mutta liittyvät maubottiin muuten (esim. liitänn
 |--------:|:----:|:------------------------------------------------------------------------------------------------------|
 | 28.10.  | 4    | Yhdistetty laskin ja nopanheittobotti                                                                 |
 | 30.10.  | 1    | Botti joka vastaa sille lähetettyihin kuviin niiden kuvien `mxc://`-osoitteella                       |
-| **yht** | 5    |                                                                                                       |
+| 1.11.   | 2    | xkcd-botti                                                                                            |
+| **yht** | 7    |                                                                                                       |
 
 
 # Alkuperäisen projektin työaikakirjanpito
