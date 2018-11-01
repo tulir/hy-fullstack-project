@@ -9,7 +9,8 @@
 | 31.10.  | 4    | Instance APIn alku, sisäinen refaktorointi asioiden käynnistysjärjestykseen                           |
 | 1.11.   | 1    | Pluginien live-upload+reload korjauksia, korjauksia matrix-kirjastoon                                 |
 | 1.11.   | 4    | Instance API valmiiksi ja lisää sisäisiä muutoksia                                                    |
-| **yht** | 25   |                                                                                                       |
+| 1.11.   | 2    | Client API valmiiksi                                                                                  |
+| **yht** | 27   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -46,7 +47,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 25 tuntia |
+| hallintajärjestelmä   | 27 tuntia |
 | muut maubot asiat     |  7 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 55 tuntia |
+| **yhteensä**          | 57 tuntia |
