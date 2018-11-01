@@ -8,7 +8,8 @@
 | 30.10.  | 3    | Plugin APIn implementaatio valmiiksi ja toimivuuden varmistus, yksinkertainen kirjautumisjärjestelmä  |
 | 31.10.  | 4    | Instance APIn alku, sisäinen refaktorointi asioiden käynnistysjärjestykseen                           |
 | 1.11.   | 1    | Pluginien live-upload+reload korjauksia, korjauksia matrix-kirjastoon                                 |
-| **yht** | 21   |                                                                                                       |
+| 1.11.   | 4    | Instance API valmiiksi ja lisää sisäisiä muutoksia                                                    |
+| **yht** | 25   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -43,7 +44,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 21 tuntia |
+| hallintajärjestelmä   | 25 tuntia |
 | muut maubot asiat     |  7 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 51 tuntia |
+| **yhteensä**          | 55 tuntia |
