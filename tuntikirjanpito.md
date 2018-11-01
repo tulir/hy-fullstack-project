@@ -38,3 +38,12 @@ react nativen outouksien takia se jäi kesken.
 | 9.9   | 2    | Tallennuksen muokkaaminen monelle käyttäjälle sopivaksi, navigaatiovaihtoehtojen tutkimista           |
 | 15.9. | 4    | Välimuistimahdollisuuksien tutkiminen, browser-request kirjastosta RNssä toimiva versio, login toimii |
 |**yht**| 23   |                                                                                                       |
+
+# Yhteenlaskettuna
+
+| alue                  | aika      |
+|----------------------:|:----------|
+| hallintajärjestelmä   | 21 tuntia |
+| muut maubot asiat     |  7 tuntia |
+| alkuperäinen projekti | 23 tuntia |
+| **yhteensä**          | 51 tuntia |
