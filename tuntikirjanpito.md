@@ -13,8 +13,9 @@
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
-Nämä eivät varsinaisesti liity projektiin eli maubotin hallintaohjelmointirajapintaan ja
-hallintakäyttöliittymään, mutta liittyvät maubottiin muuten (esim. liitännäisten kehitys)
+Nämä eivät varsinaisesti liity projektiin eli maubotin
+hallintaohjelmointirajapintaan ja hallintakäyttöliittymään, mutta
+liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 
 | päivä   | aika | mitä tein                                                                                                                         |
 |--------:|:----:|:----------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +26,8 @@ hallintakäyttöliittymään, mutta liittyvät maubottiin muuten (esim. liitänn
 
 
 # Alkuperäisen projektin työaikakirjanpito
-Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma, mutta matrix-js-sdk:n ja
+Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma
+[Remuks](https://github.com/tulir/remuks), mutta matrix-js-sdk:n ja
 react nativen outouksien takia se jäi kesken.
 
 | päivä | aika | mitä tein                                                                                             |
