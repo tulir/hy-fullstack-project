@@ -11,7 +11,8 @@
 | 1.11.   | 4    | Instance API valmiiksi ja lisää sisäisiä muutoksia                                                    |
 | 1.11.   | 2    | Client API valmiiksi                                                                                  |
 | 2.11.   | 1    | Echo botin avulla valmistuneiden APIen testaus ja korjaus                                             |
-| **yht** | 28   |                                                                                                       |
+| 2.11.   | 1    | Lisää APIn testausta ja korjausta                                                                     |
+| **yht** | 29   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -25,7 +26,8 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 30.10.  | 1    | [maubot/media](https://github.com/maubot/media): Botti, joka vastaa sille lähetettyihin kuviin niiden kuvien `mxc://`-osoitteella |
 | 1.11.   | 2    | [maubot/xkcd](https://github.com/maubot/xkcd): xkcd-botti                                                                         |
 | 2.11.   | 0    | [maubot/echo](https://github.com/maubot/echo): yksinkertainen !ping ja !echo komennot sisältävä botti                             |
-| **yht** | 7    |                                                                                                                                   |
+| 2.11.   | 1    | xkcd-botin bugien korjausta                                                                                                       |
+| **yht** | 8    |                                                                                                                                   |
 
 
 # Alkuperäisen projektin työaikakirjanpito
@@ -49,7 +51,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 28 tuntia |
-| muut maubot asiat     |  7 tuntia |
+| hallintajärjestelmä   | 29 tuntia |
+| muut maubot asiat     |  8 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 58 tuntia |
+| **yhteensä**          | 60 tuntia |
