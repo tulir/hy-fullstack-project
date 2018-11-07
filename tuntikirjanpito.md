@@ -12,7 +12,11 @@
 | 1.11.   | 2    | Client API valmiiksi                                                                                  |
 | 2.11.   | 1    | Echo botin avulla valmistuneiden APIen testaus ja korjaus                                             |
 | 2.11.   | 1    | Lisää APIn testausta ja korjausta                                                                     |
-| **yht** | 29   |                                                                                                       |
+| 4.11.   | 2    | UIn aloitus                                                                                           |
+| 6.11.   | 2    | Kirjautumisen implementointi UIssa                                                                    |
+| 6.11.   | 1    | Päänäkymän aloitus                                                                                    |
+| 7.11.   | 3    | Yläpalkki ja sivupalkki                                                                               |
+| **yht** | 37   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -51,7 +55,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 29 tuntia |
+| hallintajärjestelmä   | 37 tuntia |
 | muut maubot asiat     |  8 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 60 tuntia |
+| **yhteensä**          | 68 tuntia |
