@@ -16,7 +16,8 @@
 | 6.11.   | 2    | Kirjautumisen implementointi UIssa                                                                    |
 | 6.11.   | 1    | Päänäkymän aloitus                                                                                    |
 | 7.11.   | 3    | Yläpalkki ja sivupalkki                                                                               |
-| **yht** | 37   |                                                                                                       |
+| 8.11.   | 1    | Uusi API endpoint tietyn pluginin päivitykseen, käyttöliittymän sivupalkkiin +-napit                  |
+| **yht** | 38   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -55,7 +56,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 37 tuntia |
+| hallintajärjestelmä   | 38 tuntia |
 | muut maubot asiat     |  8 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 68 tuntia |
+| **yhteensä**          | 69 tuntia |
