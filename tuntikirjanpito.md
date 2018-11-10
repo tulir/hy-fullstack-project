@@ -21,7 +21,8 @@
 | 9.11.   | 6    | Clienttien päänäkymä valmiiksi                                                                        |
 | 10.11.  | 1    | Clienttien päänäkymän viimeistely                                                                     |
 | 10.11.  | 3    | Instanssien päänäkymä                                                                                 |
-| **yht** | 50   |                                                                                                       |
+| 10.11.  | 2    | Ulkoasun parantelua                                                                                   |
+| **yht** | 52   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -60,7 +61,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 50 tuntia |
+| hallintajärjestelmä   | 52 tuntia |
 | muut maubot asiat     |  8 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 81 tuntia |
+| **yhteensä**          | 83 tuntia |
