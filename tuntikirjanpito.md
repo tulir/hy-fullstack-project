@@ -24,7 +24,8 @@
 | 10.11.  | 2    | Ulkoasun parantelua                                                                                   |
 | 10.11.  | 1    | Koodin duplikaation poistamista, olemattomien polkujen käsittely, pieniä korjauksia                   |
 | 10.11.  | 1    | Yksinkertainen mobiilioptimointi                                                                      |
-| **yht** | 54   |                                                                                                       |
+| 10.11.  | 1    | Frontendin jakelu tuotannossa, dockerfilessä automaatinen kääntäminen                                 |
+| **yht** | 55   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -63,7 +64,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 54 tuntia |
+| hallintajärjestelmä   | 55 tuntia |
 | muut maubot asiat     |  8 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 85 tuntia |
+| **yhteensä**          | 86 tuntia |
