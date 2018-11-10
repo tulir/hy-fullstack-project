@@ -18,8 +18,9 @@
 | 7.11.   | 3    | Yläpalkki ja sivupalkki                                                                               |
 | 8.11.   | 1    | Uusi API endpoint tietyn pluginin päivitykseen, käyttöliittymän sivupalkkiin +-napit                  |
 | 8.11.   | 2    | Clienttien päänäkymän aloitus                                                                         |
-| 9.11.   | 6    | Clienttien päänäkymä valmiiksi                                                                  |
-| **yht** | 46   |                                                                                                       |
+| 9.11.   | 6    | Clienttien päänäkymä valmiiksi                                                                        |
+| 10.11.  | 1    | Clienttien päänäkymän viimeistely                                                                     |
+| **yht** | 47   |                                                                                                       |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -58,7 +59,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 46 tuntia |
+| hallintajärjestelmä   | 47 tuntia |
 | muut maubot asiat     |  8 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 77 tuntia |
+| **yhteensä**          | 78 tuntia |
