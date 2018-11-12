@@ -1,32 +1,32 @@
 # Työaikakirjanpito
-| päivä   | aika | mitä tein                                                                                             |
-|--------:|:----:|:------------------------------------------------------------------------------------------------------|
-| 25.10.  | 3    | Frontendin initialisointi, API spesifikaation aloitus                                                 |
-| 27.10.  | 4    | Lisää API spesifikaation työstämistä                                                                  |
-| 27.10.  | 4    | Backendin implementaation aloitus, pieniä korjauksia API spesifikaatioon                              |
-| 29.10.  | 2    | Pluginien lataukseen liittyviä korjauksia, plugin APIn implementaatiota                               |
-| 30.10.  | 3    | Plugin APIn implementaatio valmiiksi ja toimivuuden varmistus, yksinkertainen kirjautumisjärjestelmä  |
-| 31.10.  | 4    | Instance APIn alku, sisäinen refaktorointi asioiden käynnistysjärjestykseen                           |
-| 1.11.   | 1    | Pluginien live-upload+reload korjauksia, korjauksia matrix-kirjastoon                                 |
-| 1.11.   | 4    | Instance API valmiiksi ja lisää sisäisiä muutoksia                                                    |
-| 1.11.   | 2    | Client API valmiiksi                                                                                  |
-| 2.11.   | 1    | Echo botin avulla valmistuneiden APIen testaus ja korjaus                                             |
-| 2.11.   | 1    | Lisää APIn testausta ja korjausta                                                                     |
-| 4.11.   | 2    | UIn aloitus                                                                                           |
-| 6.11.   | 2    | Kirjautumisen implementointi UIssa                                                                    |
-| 6.11.   | 1    | Päänäkymän aloitus                                                                                    |
-| 7.11.   | 3    | Yläpalkki ja sivupalkki                                                                               |
-| 8.11.   | 1    | Uusi API endpoint tietyn pluginin päivitykseen, käyttöliittymän sivupalkkiin +-napit                  |
-| 8.11.   | 2    | Clienttien päänäkymän aloitus                                                                         |
-| 9.11.   | 6    | Clienttien päänäkymä valmiiksi                                                                        |
-| 10.11.  | 1    | Clienttien päänäkymän viimeistely                                                                     |
-| 10.11.  | 3    | Instanssien päänäkymä                                                                                 |
-| 10.11.  | 2    | Ulkoasun parantelua                                                                                   |
-| 10.11.  | 1    | Koodin duplikaation poistamista, olemattomien polkujen käsittely, pieniä korjauksia                   |
-| 10.11.  | 1    | Yksinkertainen mobiilioptimointi                                                                      |
-| 10.11.  | 1    | Frontendin jakelu tuotannossa, dockerfilessä automaatinen kääntäminen                                 |
-| 11.11.  | 3    | Palvelimen logit käyttöliittymään websocketilla, mobiililla sivupalkin avaamiseen animaatio           |
-| **yht** | 58   |                                                                                                       |
+| päivä   | aika | mitä tein                                                                              |
+|--------:|:----:|:---------------------------------------------------------------------------------------|
+| 25.10.  | 3    | Frontendin initialisointi, API spesifikaation aloitus                                  |
+| 27.10.  | 4    | Lisää API spesifikaation työstämistä                                                   |
+| 27.10.  | 4    | Backendin implementaation aloitus, pieniä korjauksia API spesifikaatioon               |
+| 29.10.  | 2    | Pluginien lataukseen liittyviä korjauksia, plugin APIn implementaatiota                |
+| 30.10.  | 3    | Plugin APIn implementaatio valmiiksi ja toimivuuden varmistus, kirjautumisjärjestelmä  |
+| 31.10.  | 4    | Instance APIn alku, sisäinen refaktorointi asioiden käynnistysjärjestykseen            |
+| 1.11.   | 1    | Pluginien live-upload+reload korjauksia, korjauksia matrix-kirjastoon                  |
+| 1.11.   | 4    | Instance API valmiiksi ja lisää sisäisiä muutoksia                                     |
+| 1.11.   | 2    | Client API valmiiksi                                                                   |
+| 2.11.   | 1    | Echo botin avulla valmistuneiden APIen testaus ja korjaus                              |
+| 2.11.   | 1    | Lisää APIn testausta ja korjausta                                                      |
+| 4.11.   | 2    | UIn aloitus                                                                            |
+| 6.11.   | 2    | Kirjautumisen implementointi UIssa                                                     |
+| 6.11.   | 1    | Päänäkymän aloitus                                                                     |
+| 7.11.   | 3    | Yläpalkki ja sivupalkki                                                                |
+| 8.11.   | 1    | Uusi API endpoint tietyn pluginin päivitykseen, käyttöliittymän sivupalkkiin +-napit   |
+| 8.11.   | 2    | Clienttien päänäkymän aloitus                                                          |
+| 9.11.   | 6    | Clienttien päänäkymä valmiiksi                                                         |
+| 10.11.  | 1    | Clienttien päänäkymän viimeistely                                                      |
+| 10.11.  | 3    | Instanssien päänäkymä                                                                  |
+| 10.11.  | 2    | Ulkoasun parantelua, pluginien päänäkymä                                               |
+| 10.11.  | 1    | Koodin duplikaation poistamista, olemattomien polkujen käsittely, pieniä korjauksia    |
+| 10.11.  | 1    | Yksinkertainen mobiilioptimointi                                                       |
+| 10.11.  | 1    | Frontendin jakelu tuotannossa, dockerfilessä automaatinen kääntäminen                  |
+| 11.11.  | 3    | Palvelimen logit käyttöliittymään websocketilla, mobiililla sivupalkin animaatio       |
+| **yht** | 58   |                                                                                        |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
