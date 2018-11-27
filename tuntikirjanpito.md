@@ -26,7 +26,8 @@
 | 10.11.  | 1    | Yksinkertainen mobiilioptimointi                                                       |
 | 10.11.  | 1    | Frontendin jakelu tuotannossa, dockerfilessä automaatinen kääntäminen                  |
 | 11.11.  | 3    | Palvelimen logit käyttöliittymään websocketilla, mobiililla sivupalkin animaatio       |
-| **yht** | 58   |                                                                                        |
+| 26.11.  | 1    | Pieniä korjauksia frontendiin ja pluginien reloadaamiseen                              |
+| **yht** | 59   |                                                                                        |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -41,7 +42,8 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 1.11.   | 2    | [maubot/xkcd](https://github.com/maubot/xkcd): xkcd-botti                                                                         |
 | 2.11.   | 0    | [maubot/echo](https://github.com/maubot/echo): yksinkertainen !ping ja !echo komennot sisältävä botti                             |
 | 2.11.   | 1    | xkcd-botin bugien korjausta                                                                                                       |
-| **yht** | 8    |                                                                                                                                   |
+| 26.11.  | 3    | [maubot/rss](https://github.com/maubot/rss): RSS-syötteiden seurantabotti                                                         |
+| **yht** | 11   |                                                                                                                                   |
 
 
 # Alkuperäisen projektin työaikakirjanpito
@@ -65,7 +67,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 58 tuntia |
-| muut maubot asiat     |  8 tuntia |
+| hallintajärjestelmä   | 59 tuntia |
+| muut maubot asiat     | 11 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 89 tuntia |
+| **yhteensä**          | 93 tuntia |
