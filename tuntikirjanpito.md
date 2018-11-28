@@ -28,7 +28,6 @@
 | 11.11.  | 3    | Palvelimen logit käyttöliittymään websocketilla, mobiililla sivupalkin animaatio       |
 | 26.11.  | 1    | Pieniä korjauksia frontendiin ja pluginien reloadaamiseen                              |
 | 29.11.  | 5    | Käyttöliittymän loginkatselijaan paljon lisää ominaisuuksia                            |
-| **yht** | 64   |                                                                                        |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -46,7 +45,6 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 26.11.  | 3    | [maubot/rss](https://github.com/maubot/rss): RSS-syötteiden seurantabotti                                                         |
 | 27.11.  | 3    | RSS-bottiin käyttöoikeuden tarkistus, mukautettavat viestiformaatit ja bugien korjausta                                           |
 | 28.11.  | 1    | mautrix-pythoniin HTML-parseri, maubotissa commonmark-paketin vaihto Python-Markdown-pakettiin                                    |
-| **yht** | 15   |                                                                                                                                   |
 
 
 # Alkuperäisen projektin työaikakirjanpito
@@ -64,13 +62,13 @@ react nativen outouksien takia se jäi kesken.
 | 8.9.  | 1    | "Väliaikainen" logo, cryptotallennusimplementaatio ~valmiiksi, RemuksClient-luokka                    |
 | 9.9   | 2    | Tallennuksen muokkaaminen monelle käyttäjälle sopivaksi, navigaatiovaihtoehtojen tutkimista           |
 | 15.9. | 4    | Välimuistimahdollisuuksien tutkiminen, browser-request kirjastosta RNssä toimiva versio, login toimii |
-|**yht**| 23   |                                                                                                       |
 
 # Yhteenlaskettuna
 
-| alue                  | aika      |
-|----------------------:|:----------|
-| hallintajärjestelmä   | 64 tuntia |
-| muut maubot asiat     | 15 tuntia |
-| alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 102 tuntia |
+| alue                  | aika       |
+|----------------------:|:-----------|
+| hallintajärjestelmä   | 64 tuntia  |
+| muut maubot asiat     | 15 tuntia  |
+| **maubot yhteensä**   | 79 tuntia  |
+| alkuperäinen projekti | 23 tuntia  |
+| **kaikki yhteensä**   | 102 tuntia |
