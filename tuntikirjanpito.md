@@ -27,7 +27,8 @@
 | 10.11.  | 1    | Frontendin jakelu tuotannossa, dockerfilessä automaatinen kääntäminen                  |
 | 11.11.  | 3    | Palvelimen logit käyttöliittymään websocketilla, mobiililla sivupalkin animaatio       |
 | 26.11.  | 1    | Pieniä korjauksia frontendiin ja pluginien reloadaamiseen                              |
-| **yht** | 59   |                                                                                        |
+| 29.11.  | 5    | Käyttöliittymän loginkatselijaan paljon lisää ominaisuuksia                            |
+| **yht** | 64   |                                                                                        |
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
@@ -69,7 +70,7 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika      |
 |----------------------:|:----------|
-| hallintajärjestelmä   | 59 tuntia |
+| hallintajärjestelmä   | 64 tuntia |
 | muut maubot asiat     | 15 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 97 tuntia |
+| **yhteensä**          | 102 tuntia |
