@@ -31,7 +31,7 @@
 
 
 # Muu maubottiin liittyvä työaikakirjanpito
-Nämä eivät varsinaisesti liity projektiin eli maubotin
+Nämä eivät suoraan liity projektiin eli maubotin
 hallintaohjelmointirajapintaan ja hallintakäyttöliittymään, mutta
 liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 
@@ -43,7 +43,9 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 2.11.   | 0    | [maubot/echo](https://github.com/maubot/echo): yksinkertainen !ping ja !echo komennot sisältävä botti                             |
 | 2.11.   | 1    | xkcd-botin bugien korjausta                                                                                                       |
 | 26.11.  | 3    | [maubot/rss](https://github.com/maubot/rss): RSS-syötteiden seurantabotti                                                         |
-| **yht** | 11   |                                                                                                                                   |
+| 27.11.  | 3    | RSS-bottiin käyttöoikeuden tarkistus, mukautettavat viestiformaatit ja bugien korjausta                                           |
+| 28.11.  | 1    | mautrix-pythoniin HTML-parseri, maubotissa commonmark-paketin vaihto Python-Markdown-pakettiin                                    |
+| **yht** | 15   |                                                                                                                                   |
 
 
 # Alkuperäisen projektin työaikakirjanpito
@@ -68,6 +70,6 @@ react nativen outouksien takia se jäi kesken.
 | alue                  | aika      |
 |----------------------:|:----------|
 | hallintajärjestelmä   | 59 tuntia |
-| muut maubot asiat     | 11 tuntia |
+| muut maubot asiat     | 15 tuntia |
 | alkuperäinen projekti | 23 tuntia |
-| **yhteensä**          | 93 tuntia |
+| **yhteensä**          | 97 tuntia |
