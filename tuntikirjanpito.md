@@ -27,8 +27,8 @@
 | 10.11.  | 1    | Frontendin jakelu tuotannossa, dockerfilessä automaatinen kääntäminen                  |
 | 11.11.  | 3    | Palvelimen logit käyttöliittymään websocketilla, mobiililla sivupalkin animaatio       |
 | 26.11.  | 1    | Pieniä korjauksia frontendiin ja pluginien reloadaamiseen                              |
-| 29.11.  | 5    | Käyttöliittymän loginkatselijaan paljon lisää ominaisuuksia                            |
-
+| 28.11.  | 5    | Käyttöliittymän loginkatselijaan paljon lisää ominaisuuksia                            |
+| 29.11.  | 1    | Spesifikaatio uusille endpointeille, loginäkymään autoscrollaus, bugikorjauksia        |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -45,6 +45,7 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 26.11.  | 3    | [maubot/rss](https://github.com/maubot/rss): RSS-syötteiden seurantabotti                                                         |
 | 27.11.  | 3    | RSS-bottiin käyttöoikeuden tarkistus, mukautettavat viestiformaatit ja bugien korjausta                                           |
 | 28.11.  | 1    | mautrix-pythoniin HTML-parseri, maubotissa commonmark-paketin vaihto Python-Markdown-pakettiin                                    |
+| 29.11.  | 1    | RSS-bottiin sisäinen adminlista käyttöoikeustarkistuksen ohitukseen ja bugien kirjausta                                           |
 
 
 # Alkuperäisen projektin työaikakirjanpito
@@ -67,8 +68,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 64 tuntia  |
-| muut maubot asiat     | 15 tuntia  |
+| hallintajärjestelmä   | 65 tuntia  |
+| muut maubot asiat     | 16 tuntia  |
 | **maubot yhteensä**   | 79 tuntia  |
 | alkuperäinen projekti | 23 tuntia  |
-| **kaikki yhteensä**   | 102 tuntia |
+| **kaikki yhteensä**   | 104 tuntia |
