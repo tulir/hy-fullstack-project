@@ -29,6 +29,9 @@
 | 26.11.  | 1    | Pieniä korjauksia frontendiin ja pluginien reloadaamiseen                              |
 | 28.11.  | 5    | Käyttöliittymän loginkatselijaan paljon lisää ominaisuuksia                            |
 | 29.11.  | 1    | Spesifikaatio uusille endpointeille, loginäkymään autoscrollaus, bugikorjauksia        |
+| 5.12.   | 1    | Pieniä korjauksia, tiedostolinkit joka riviin logissa                                  |
+| 7.12.   | 3    | Täysi Matrix API proxy lisätyille käyttäjille ja login/register proxy                  |
+| 8.12.   | 1    | Matrix proxyn asetusten korjaaminen, UIssa muokattujen kenttien highlight              |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -68,8 +71,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 65 tuntia  |
+| hallintajärjestelmä   | 70 tuntia  |
 | muut maubot asiat     | 16 tuntia  |
 | **maubot yhteensä**   | 79 tuntia  |
 | alkuperäinen projekti | 23 tuntia  |
-| **kaikki yhteensä**   | 104 tuntia |
+| **kaikki yhteensä**   | 109 tuntia |
