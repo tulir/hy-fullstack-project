@@ -32,6 +32,8 @@
 | 5.12.   | 1    | Pieniä korjauksia, tiedostolinkit joka riviin logissa                                  |
 | 7.12.   | 3    | Täysi Matrix API proxy lisätyille käyttäjille ja login/register proxy                  |
 | 8.12.   | 1    | Matrix proxyn asetusten korjaaminen, UIssa muokattujen kenttien highlight              |
+| 8.12.   | 1    | Matrix proxyn spesifikaatio, bugien korjausta                                          |
+| 9.12.   | 1    | Editorien muutokset pyyhkivän bugin korjaus                                            |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -49,7 +51,7 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 27.11.  | 3    | RSS-bottiin käyttöoikeuden tarkistus, mukautettavat viestiformaatit ja bugien korjausta                                           |
 | 28.11.  | 1    | mautrix-pythoniin HTML-parseri, maubotissa commonmark-paketin vaihto Python-Markdown-pakettiin                                    |
 | 29.11.  | 1    | RSS-bottiin sisäinen adminlista käyttöoikeustarkistuksen ohitukseen ja bugien kirjausta                                           |
-
+| 9.12.   | 1    | Yksinkertainen esimerkkiplugin ja pluginien metadataformaatin vaihto YAMLiin                                                      |
 
 # Alkuperäisen projektin työaikakirjanpito
 Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma
@@ -71,8 +73,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 70 tuntia  |
-| muut maubot asiat     | 16 tuntia  |
+| hallintajärjestelmä   | 72 tuntia  |
+| muut maubot asiat     | 17 tuntia  |
 | **maubot yhteensä**   | 79 tuntia  |
 | alkuperäinen projekti | 23 tuntia  |
-| **kaikki yhteensä**   | 109 tuntia |
+| **kaikki yhteensä**   | 112 tuntia |
