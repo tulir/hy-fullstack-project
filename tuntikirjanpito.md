@@ -34,6 +34,7 @@
 | 8.12.   | 1    | Matrix proxyn asetusten korjaaminen, UIssa muokattujen kenttien highlight              |
 | 8.12.   | 1    | Matrix proxyn spesifikaatio, bugien korjausta                                          |
 | 9.12.   | 1    | Editorien muutokset pyyhkivän bugin korjaus                                            |
+| 13.12.  | 4    | Hallintaohjelmointirajapintaa käyttävän komentorivityökalun alku, kirjautuminen toimii |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -73,8 +74,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 72 tuntia  |
+| hallintajärjestelmä   | 76 tuntia  |
 | muut maubot asiat     | 17 tuntia  |
-| **maubot yhteensä**   | 89 tuntia  |
+| **maubot yhteensä**   | 93 tuntia  |
 | alkuperäinen projekti | 23 tuntia  |
-| **kaikki yhteensä**   | 112 tuntia |
+| **kaikki yhteensä**   | 116 tuntia |
