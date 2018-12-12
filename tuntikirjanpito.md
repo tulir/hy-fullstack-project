@@ -24,15 +24,15 @@
 | 10.11.  | 2    | Ulkoasun parantelua, pluginien päänäkymä                                               |
 | 10.11.  | 1    | Koodin duplikaation poistamista, olemattomien polkujen käsittely, pieniä korjauksia    |
 | 10.11.  | 1    | Yksinkertainen mobiilioptimointi                                                       |
-| 10.11.  | 1    | Frontendin jakelu tuotannossa, dockerfilessä automaatinen kääntäminen                  |
-| 11.11.  | 3    | Palvelimen logit käyttöliittymään websocketilla, mobiililla sivupalkin animaatio       |
-| 26.11.  | 1    | Pieniä korjauksia frontendiin ja pluginien reloadaamiseen                              |
-| 28.11.  | 5    | Käyttöliittymän loginkatselijaan paljon lisää ominaisuuksia                            |
-| 29.11.  | 1    | Spesifikaatio uusille endpointeille, loginäkymään autoscrollaus, bugikorjauksia        |
-| 5.12.   | 1    | Pieniä korjauksia, tiedostolinkit joka riviin logissa                                  |
-| 7.12.   | 3    | Täysi Matrix API proxy lisätyille käyttäjille ja login/register proxy                  |
-| 8.12.   | 1    | Matrix proxyn asetusten korjaaminen, UIssa muokattujen kenttien highlight              |
-| 8.12.   | 1    | Matrix proxyn spesifikaatio, bugien korjausta                                          |
+| 10.11.  | 1    | Käyttöliittymän jakelu tuotannossa, dockerfilessä automaatinen kääntäminen             |
+| 11.11.  | 3    | Palvelimen lokit käyttöliittymään websocketilla, mobiililla sivupalkin animaatio       |
+| 26.11.  | 1    | Pieniä korjauksia käyttöliittymään ja pluginien uudelleenlataamiseen                   |
+| 28.11.  | 5    | Käyttöliittymän lokinkatselijaan paljon lisää ominaisuuksia                            |
+| 29.11.  | 1    | Spesifikaatio uusille endpointeille, lokinäkymään autoscrollaus, bugikorjauksia        |
+| 5.12.   | 1    | Pieniä korjauksia, tiedostolinkit joka riviin lokissa                                  |
+| 7.12.   | 3    | Täysi Matrix-välityspalvelin lisätyille käyttäjille ja tunnistautumiseen               |
+| 8.12.   | 1    | Matrix-välityspalvelimen asetusten korjaaminen, UIssa muokattujen kenttien korostus    |
+| 8.12.   | 1    | Matrix-välityspalvelimen spesifikaatio, bugien korjausta                               |
 | 9.12.   | 1    | Editorien muutokset pyyhkivän bugin korjaus                                            |
 | 13.12.  | 4    | Hallintaohjelmointirajapintaa käyttävän komentorivityökalun alku, kirjautuminen toimii |
 
