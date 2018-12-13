@@ -35,7 +35,8 @@
 | 8.12.   | 1    | Matrix-välityspalvelimen spesifikaatio, bugien korjausta                               |
 | 9.12.   | 1    | Editorien muutokset pyyhkivän bugin korjaus                                            |
 | 12.12.  | 4    | Hallintaohjelmointirajapintaa käyttävän komentorivityökalun alku, kirjautuminen toimii |
-| 13.12.  | 5    | Komentorivityökalun argumentinparsinta kuntoon ja projektin luontikomento valmiiksi    |
+| 13.12.  | 5    | Komentorivityökalun argumentinparsinta kuntoon ja pluginin luontikomento valmiiksi     |
+| 13.12.  | 3    | Pluginin pakkaus- ja uploadauskomennot komentorivityökaluun                            |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -75,8 +76,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 81 tuntia  |
+| hallintajärjestelmä   | 84 tuntia  |
 | muut maubot asiat     | 17 tuntia  |
-| **maubot yhteensä**   | 98 tuntia  |
+| **maubot yhteensä**   | 101 tuntia |
 | alkuperäinen projekti | 23 tuntia  |
-| **kaikki yhteensä**   | 121 tuntia |
+| **kaikki yhteensä**   | 124 tuntia |
