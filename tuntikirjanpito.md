@@ -76,8 +76,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 84 tuntia  |
-| muut maubot asiat     | 17 tuntia  |
+| hallintajärjestelmä   | 84  tuntia |
+| muut maubot asiat     | 17  tuntia |
 | **maubot yhteensä**   | 101 tuntia |
-| alkuperäinen projekti | 23 tuntia  |
+| alkuperäinen projekti | 23  tuntia |
 | **kaikki yhteensä**   | 124 tuntia |
