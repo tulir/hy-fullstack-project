@@ -36,6 +36,7 @@
 | 9.12.   | 1    | Editorien muutokset pyyhkivän bugin korjaus                                            |
 | 12.12.  | 4    | Hallintaohjelmointirajapintaa käyttävän komentorivityökalun alku, kirjautuminen toimii |
 | 13.12.  | 5    | Komentorivityökalun argumentinparsinta kuntoon ja projektin luontikomento valmiiksi    |
+
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
 hallintaohjelmointirajapintaan ja hallintakäyttöliittymään, mutta
