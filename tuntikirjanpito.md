@@ -56,6 +56,7 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 28.11.  | 1    | mautrix-pythoniin HTML-parseri, maubotissa commonmark-paketin vaihto Python-Markdown-pakettiin                                    |
 | 29.11.  | 1    | RSS-bottiin sisäinen adminlista käyttöoikeustarkistuksen ohitukseen ja bugien kirjausta                                           |
 | 9.12.   | 1    | Yksinkertainen esimerkkiplugin ja pluginien metadataformaatin vaihto YAMLiin                                                      |
+| 15.12.  | 2    | Uuden tapahtumanhallintaohjelmointirajapinnan suunnittelua ja implementaation testailua                                           |
 
 # Alkuperäisen projektin työaikakirjanpito
 Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma
@@ -78,7 +79,7 @@ react nativen outouksien takia se jäi kesken.
 | alue                  | aika       |
 |----------------------:|:-----------|
 | hallintajärjestelmä   | 86  tuntia |
-| muut maubot asiat     | 17  tuntia |
-| **maubot yhteensä**   | 103 tuntia |
+| muut maubot asiat     | 19  tuntia |
+| **maubot yhteensä**   | 105 tuntia |
 | alkuperäinen projekti | 23  tuntia |
-| **kaikki yhteensä**   | 126 tuntia |
+| **kaikki yhteensä**   | 128 tuntia |
