@@ -59,7 +59,8 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 15.12.  | 2    | Uuden tapahtumanhallintaohjelmointirajapinnan suunnittelua ja implementaation testailua                                           |
 | 17.12.  | 3    | Uuden komentojärjestelmän alustava implementaatio, echo- ja karma-bottien päivitys käyttämään uutta järjestelmää                  |
 | 23.12.  | 2    | Lisää uuden komentojärjestelmän työstämistä. Nyt lähes toimii                                                                     |
-| 24.12.  | 4    | Komentojärjestelmä toimivaksi ja kaikkien pluginien päivitys käyttämään uutta järjestelmää                                        |
+| 24.12.  | 4    | Komentojärjestelmä toimivaksi ja melkein kaikkien pluginien päivitys käyttämään uutta järjestelmää                                |
+| 26.12.  | 2    | Komentojärjestelmään tuki aliaksille ja dynaamisille komentojen nimille. RSS bot käyttämään uutta järjestelmää                    |
 
 # Alkuperäisen projektin työaikakirjanpito
 Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma
@@ -82,7 +83,7 @@ react nativen outouksien takia se jäi kesken.
 | alue                  | aika       |
 |----------------------:|:-----------|
 | hallintajärjestelmä   | 86  tuntia |
-| muut maubot asiat     | 28  tuntia |
-| **maubot yhteensä**   | 114 tuntia |
+| muut maubot asiat     | 30  tuntia |
+| **maubot yhteensä**   | 116 tuntia |
 | alkuperäinen projekti | 23  tuntia |
-| **kaikki yhteensä**   | 137 tuntia |
+| **kaikki yhteensä**   | 139 tuntia |
