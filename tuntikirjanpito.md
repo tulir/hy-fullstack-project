@@ -38,6 +38,7 @@
 | 13.12.  | 5    | Komentorivityökalun argumentinparsinta kuntoon ja pluginin luontikomento valmiiksi     |
 | 13.12.  | 3    | Pluginin pakkaus- ja uploadauskomennot komentorivityökaluun                            |
 | 13.12.  | 2    | Pieniä korjauksia ja komentorivityökaluun lokienkatselukomento                         |
+| 27.12.  | 5    | Tietokantaselaimen aloitus                                                             |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -82,8 +83,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 86  tuntia |
+| hallintajärjestelmä   | 91  tuntia |
 | muut maubot asiat     | 30  tuntia |
-| **maubot yhteensä**   | 116 tuntia |
+| **maubot yhteensä**   | 121 tuntia |
 | alkuperäinen projekti | 23  tuntia |
-| **kaikki yhteensä**   | 139 tuntia |
+| **kaikki yhteensä**   | 144 tuntia |
