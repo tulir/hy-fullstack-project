@@ -41,6 +41,7 @@
 | 27.12.  | 5    | Tietokantaselaimen aloitus                                                             |
 | 28.12.  | 3    | Tietokantaselaimen yksinkertainen katselutoiminto valmiiksi                            |
 | 28.12.  | 2    | Tietokantaselaimeen omien SQL-kyselyiden syöttö                                        |
+| 28.12.  | 1    | Tietokantaselaimeen helppo rivin poistonappi                                           |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -85,8 +86,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 96  tuntia |
+| hallintajärjestelmä   | 97  tuntia |
 | muut maubot asiat     | 30  tuntia |
-| **maubot yhteensä**   | 126 tuntia |
+| **maubot yhteensä**   | 127 tuntia |
 | alkuperäinen projekti | 23  tuntia |
-| **kaikki yhteensä**   | 149 tuntia |
+| **kaikki yhteensä**   | 150 tuntia |
