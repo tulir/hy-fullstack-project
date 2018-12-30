@@ -42,6 +42,7 @@
 | 28.12.  | 3    | Tietokantaselaimen yksinkertainen katselutoiminto valmiiksi                            |
 | 28.12.  | 2    | Tietokantaselaimeen omien SQL-kyselyiden syöttö                                        |
 | 28.12.  | 1    | Tietokantaselaimeen helppo rivin poistonappi                                           |
+| 30.12.  | 1    | Konfiguraatiovaihtoehto poistaa käytöstä tiettyjä osia hallintarajapinnasta            |
 
 # Muu maubottiin liittyvä työaikakirjanpito
 Nämä eivät suoraan liity projektiin eli maubotin
@@ -65,6 +66,7 @@ liittyvät maubottiin muuten (esim. liitännäisten kehitys)
 | 23.12.  | 2    | Lisää uuden komentojärjestelmän työstämistä. Nyt lähes toimii                                                                     |
 | 24.12.  | 4    | Komentojärjestelmä toimivaksi ja melkein kaikkien pluginien päivitys käyttämään uutta järjestelmää                                |
 | 26.12.  | 2    | Komentojärjestelmään tuki aliaksille ja dynaamisille komentojen nimille. RSS bot käyttämään uutta järjestelmää                    |
+| 29.12.  | 1    | Pythonilla nettisivuista kuvakaappauksen ottamisen testailua (mm. seleniumilla) kuvakaappausbottia varten                         |
 
 # Alkuperäisen projektin työaikakirjanpito
 Projekti oli aluksi React Nativella tehty Matrix-asiakasohjelma
@@ -86,8 +88,8 @@ react nativen outouksien takia se jäi kesken.
 
 | alue                  | aika       |
 |----------------------:|:-----------|
-| hallintajärjestelmä   | 97  tuntia |
-| muut maubot asiat     | 30  tuntia |
-| **maubot yhteensä**   | 127 tuntia |
+| hallintajärjestelmä   | 98  tuntia |
+| muut maubot asiat     | 31  tuntia |
+| **maubot yhteensä**   | 129 tuntia |
 | alkuperäinen projekti | 23  tuntia |
-| **kaikki yhteensä**   | 150 tuntia |
+| **kaikki yhteensä**   | 152 tuntia |
